@@ -36,6 +36,7 @@ dependencies {
     implementation("org.springframework.boot:spring-boot-starter-data-jpa:3.2.0")
     implementation("org.springframework.boot:spring-boot-starter-jdbc:3.2.0")
     implementation("org.springframework.boot:spring-boot-starter-web:3.2.0")
+    implementation ("org.springframework.boot:spring-boot-starter-hateoas:3.2.0")
     implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.16")
     implementation("org.jetbrains.kotlin:kotlin-reflect:1.9.21")
     implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.0.4")
